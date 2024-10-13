@@ -2,7 +2,7 @@
 <manifest>
  <!--Remote-->
  <remote name="LineageOS" fetch="https://github.com/LineageOS" />
- <remote name="xiaomi-sm8250-devs" fetch="https://github.com/xiaomi-sm8250-devs" />
+ <remote name="Luffitys" fetch="https://github.com/Luffitys" />
 
  <!--Trees-->
  <project path="device/xiaomi/cmi" name="android_device_xiaomi_cmi" remote="Luffitys" revision="lineage-21" />
