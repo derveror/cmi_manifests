@@ -1,6 +1,6 @@
 # Initializing files
 ```
-git clone https://github.com/derveror/local_manifest.git -b LineageOS .repo/local_manifests
+git clone https://github.com/derveror/local_manifest.git -b sm8250-devs .repo/local_manifests
 ```
 # Sync up
 ```
