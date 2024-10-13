@@ -1,6 +1,6 @@
 # Initializing files
 ```
-git clone https://github.com/derveror/cmi_manifests.git -b LineageOS .repo/local_manifests
+git clone https://github.com/derveror/cmi_manifests.git -b MagicTime .repo/local_manifests
 ```
 # Sync up
 ```
