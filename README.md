@@ -1,6 +1,6 @@
 # Initializing files
 ```
-git clone https://github.com/derveror/cmi_manifests.git -b sm8250-devs-vic .repo/local_manifests
+git clone https://github.com/derveror/cmi_manifests.git -b xiaomi-sm8250-devs-vic-qpr2 .repo/local_manifests
 ```
 # Sync up
 ```
